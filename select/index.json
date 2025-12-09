@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "NO MAP",
+  "base_artist": "UVERworld",
+  "createdAt": "2025-12-09T06:39:12.829213Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "There Is No Map For This",
+      "artist": "Whitsett",
+      "has_synced": true,
+      "path": "select/01_There_Is_No_Map_For_This_Whitsett.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "NO MAP",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/02_NO_MAP_UVERworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "No map but I'll be back (TV Size)",
+      "artist": "Makoto Furukawa",
+      "has_synced": false,
+      "path": "select/03_No_map_but_I'll_be_back_(TV_Size)_Makoto_Furukawa.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "NO MAP",
+      "artist": "UVERworld",
+      "has_synced": false,
+      "path": "select/pl_01_NO_MAP_UVERworld.txt"
+    }
+  ]
+}
